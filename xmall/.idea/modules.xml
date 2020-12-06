@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xmall.iml" filepath="$PROJECT_DIR$/xmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_common/xmall_common.iml" filepath="$PROJECT_DIR$/xmall_common/xmall_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_sso/xmall_sso.iml" filepath="$PROJECT_DIR$/xmall_sso/xmall_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_sso/xmall_sso_client/xmall_sso_client.iml" filepath="$PROJECT_DIR$/xmall_sso/xmall_sso_client/xmall_sso_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_sso/xmall_sso_rounting/xmall_sso_rounting.iml" filepath="$PROJECT_DIR$/xmall_sso/xmall_sso_rounting/xmall_sso_rounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_sso/xmall_sso_server/xmall_sso_server.iml" filepath="$PROJECT_DIR$/xmall_sso/xmall_sso_server/xmall_sso_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmall_common/xmall_utils/xmall_utils.iml" filepath="$PROJECT_DIR$/xmall_common/xmall_utils/xmall_utils.iml" />
+    </modules>
+  </component>
+</project>

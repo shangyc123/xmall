@@ -1,0 +1,28 @@
+
+# Spring Boot 默认静态资源的路径
+# spring.resources.static-locations=
+# classpath:/META-INF/resources/,
+# classpath:/resources/,
+# classpath:/static/,
+# classpath:/public/
+
+
+#自定义静态资源目录
+#spring:
+#  mvc:
+#    static-path-pattern: /**
+##  web:
+##    resources:
+##      static-locations:
+#
+#    view:
+#      suffix: .html
+#
+#  thymeleaf:
+#    suffix: .html
+#    prefix: ${spring.web.resources.static-locations}
+
+# 定义项目的根目录
+#server:
+#  servlet:
+#    context-path:

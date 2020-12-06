@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xmall_sso_rounting:war">
+    <output-path>$PROJECT_DIR$/xmall_sso/xmall_sso_rounting/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xmall_sso_rounting</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xmall_sso_rounting-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xmall_sso_rounting:war exploded" />
+    </root>
+  </artifact>
+</component>
